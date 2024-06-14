@@ -1,0 +1,50 @@
+[
+    {
+        "Pressed": "'w'"
+    },
+    {
+        "Released": "'w'"
+    },
+    {
+        "Pressed": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "'l'"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "'c'"
+    },
+    {
+        "Released": "'c'"
+    },
+    {
+        "Pressed": "'o'"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "'m'"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "Key.enter"
+    },
+    {
+        "Released": "Key.enter"
+    }
+]
